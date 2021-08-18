@@ -1,0 +1,2 @@
+# Live-Health-Web-Application
+The LiveHealth Web Application helps user to assess his / her health condition score / status by taking a simple assessment which will be performed basis the responses provided by user to some questions in connection with his / her health status. It also helps user to find / locate the availability of the medicines in the nearby medical stores by selecting the relevant location / area.
